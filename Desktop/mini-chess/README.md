@@ -1,4 +1,4 @@
-# ♟️ Mini Jeu d'Échecs (console, Python)
+# ♟️ Mini Jeu d'Échecs (console, Python) - Joueur ( équipe blanche ) VS Joueur ( équipe noire ). Pas de Bot.
 
 Un jeu d’échecs minimaliste en ligne de commande, écrit en Python, avec gestion des coups spéciaux et sauvegarde de partie.
 Coups légaux, détection d'échec/échec et mat/pat.
